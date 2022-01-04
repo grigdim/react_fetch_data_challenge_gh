@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react_fetch_data_challenge_gh/static/css/main.55b0482e.css",
+    "main.js": "/react_fetch_data_challenge_gh/static/js/main.95636cc9.js",
+    "index.html": "/react_fetch_data_challenge_gh/index.html",
+    "main.55b0482e.css.map": "/react_fetch_data_challenge_gh/static/css/main.55b0482e.css.map",
+    "main.95636cc9.js.map": "/react_fetch_data_challenge_gh/static/js/main.95636cc9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.55b0482e.css",
+    "static/js/main.95636cc9.js"
+  ]
+}
